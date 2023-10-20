@@ -1,0 +1,86 @@
+[
+  {
+    "emp_id": 19001,
+    "emp_name": "Alex Thomas",
+    "department": "Sales",
+    "email": "Alex.Thomas@Gmail.com"
+  },
+  {
+    "emp_id": 19002,
+    "emp_name": "Shobha Anand",
+    "department": "Training",
+    "email": "Shobha.Anand@Gmail.com"
+  },
+  {
+    "emp_id": 19003,
+    "emp_name": "Simran Joseph",
+    "department": "Research",
+    "email": "Simran.Joseph@Gmail.com"
+  },
+  {
+    "emp_id": 19004,
+    "emp_name": "Manish George",
+    "department": "Sales",
+    "email": "Manish.George@Gmail.com"
+  },
+  {
+    "emp_id": 19005,
+    "emp_name": "Kumkum Nath",
+    "department": "Marketing",
+    "email": "Kumkum.Nath@Gmail.com"
+  },
+  {
+    "emp_id": 19006,
+    "emp_name": "Mareena James",
+    "department": "Research",
+    "email": "Mareena.James@Gmail.com"
+  },
+  {
+    "emp_id": 19007,
+    "emp_name": "Jackson Ninan",
+    "department": "Sales",
+    "email": "Jackson.Ninan@Gmail.com"
+  },
+  {
+    "emp_id": 19008,
+    "emp_name": "Anil George",
+    "department": "Training",
+    "email": "Anil.George@Gmail.com"
+  },
+  {
+    "emp_id": 19009,
+    "emp_name": "Shibu Francis",
+    "department": "Human Resources",
+    "email": "Shibu.Francis@Gmail.com"
+  },
+  {
+    "emp_id": 19010,
+    "emp_name": "Reesa Susan",
+    "department": "Sales",
+    "email": "Reesa.Susan@Gmail.com"
+  },
+  {
+    "emp_id": 19011,
+    "emp_name": "Pushpa Ipe",
+    "department": "Human Resources",
+    "email": "Pushpa.Ipe@Gmail.com"
+  },
+  {
+    "emp_id": 19012,
+    "emp_name": "Manoj George",
+    "department": "Marketing",
+    "email":" Manoj.George@Gmail.com"
+  },
+  {
+    "emp_id": 19013,
+    "emp_name": "Suma Susan Dan",
+    "department": "Training",
+    "email": "Suma.Dan@Gmail.com"
+  },
+  {
+    "emp_id": 19014,
+    "emp_name": "Alphonsa George",
+    "department": "Human Resources",
+    "email": "Alphonsa.George@Gmail.com"
+  }
+]
